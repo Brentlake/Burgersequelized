@@ -1,5 +1,5 @@
 {
-  "name": "burgersequelized",
+  "name": "bs",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -19,6 +19,8 @@
   "homepage": "https://github.com/Brentlake/Burgersequelized#readme",
   "dependencies": {
     "express": "^4.14.1",
-    "mysql": "^2.13.0"
-  }
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.2"
+  },
+  "devDependencies": {}
 }
